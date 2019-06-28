@@ -1,3 +1,3 @@
-# Mr.-Takla
+# Mr. Takla
 Android App
-Distion of Bengali Language when written in Banglish
+.Distion of Bengali Language when written in Banglish
